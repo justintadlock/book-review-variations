@@ -1,0 +1,14 @@
+{
+	"name": "book-review-variations",
+	"version": "1.0.0",
+	"description": "Book query loop variation.",
+	"author": "justintadlock",
+	"homepage": "https://justintadlock.com",
+	"main": "build/index.js",
+	"scripts": {
+		"start": "wp-scripts start ./src/index.js"
+	},
+	"dependencies": {
+		"@wordpress/scripts": "^24.6.0"
+	}
+}
